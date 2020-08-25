@@ -4,6 +4,7 @@ using Newtonsoft.Json;
 
 namespace DeviceTwins
 {
+    
     class Program
     {
         static void Main(string[] args)
